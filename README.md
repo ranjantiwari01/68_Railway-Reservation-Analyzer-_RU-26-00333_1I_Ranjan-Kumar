@@ -393,19 +393,25 @@ The following features are potential enhancements that could be added in future 
 
 ---
 
-## 👨‍💻 Author
+
+---
+
+## 👨‍💻 About the Developer
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Developer-Ranjan%20Kumar-blue?style=for-the-badge&logo=github" />
+
 ### Ranjan Kumar
 
-**B.Tech CSE Undergraduate**
+**🎓 B.Tech CSE Undergraduate**
 
-Passionate about Python programming, data analysis, and software development.
+*Aspiring Software Developer | Python Enthusiast | Data Analysis Learner*
 
 </div>
 
 ---
+
 
 ## 🎯 Conclusion
 
